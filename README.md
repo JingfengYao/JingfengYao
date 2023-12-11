@@ -6,8 +6,6 @@
 
 📫 How to reach me: jfyao@hust.edu.cn.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JingfengYao)](https://github.com/JingfengYao/github-readme-stats)
-
 <!--
 **JingfengYao/JingfengYao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
