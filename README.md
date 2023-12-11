@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+😄 I'm a Ph.D. student at Huazhong University of Science and Technology (HUST), supervised by Professor Xinggang Wang.
+
+🔭 I'm working on computer vision and deep learning, especially, image matting, pre-training, and medical foundation models.
+
+📫 How to reach me: jfyao@hust.edu.cn
+
+
 <!--
 **JingfengYao/JingfengYao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
