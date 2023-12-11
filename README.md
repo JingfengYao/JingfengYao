@@ -2,9 +2,9 @@
 
 😄 I'm a Ph.D. student at Huazhong University of Science and Technology (HUST), supervised by Professor Xinggang Wang.
 
-🔭 I'm working on computer vision and deep learning, especially, image matting, pre-training, and medical foundation models.
+🔭 I'm working on computer vision and deep learning, especially, image matting, pre-training, and medical foundation models (still learning).
 
-📫 How to reach me: jfyao@hust.edu.cn
+📫 How to reach me: jfyao@hust.edu.cn.
 
 
 <!--
