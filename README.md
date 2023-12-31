@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Jingfeng Yao
 
-😄 I'm a first-year Ph.D. student at Huazhong University of Science and Technology (HUST), supervised by Professor Xinggang Wang.
+😄 I'm a first-year Ph.D. student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
 
 🔭 I'm working on computer vision and deep learning, especially, image matting, pre-training, and medical foundation models (still learning).
 
