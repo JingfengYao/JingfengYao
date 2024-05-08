@@ -2,7 +2,7 @@
 
 😄 I'm a first-year Ph.D. student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
 
-🔭 I'm working on computer vision and deep learning, especially, image matting, pre-training, and medical foundation models (still learning).
+🔭 I'm working on computer vision and deep learning. My current research interest lies in foundation models and generative models （still trying to do better）.
 
 📫 How to reach me: jfyao@hust.edu.cn.
 
