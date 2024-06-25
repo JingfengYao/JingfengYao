@@ -1,8 +1,10 @@
 ### Hi there 👋, this is Jingfeng Yao
 
-😄 I'm a first-year Ph.D. student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
+😄 I'm a second-year Ph.D. student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
 
-🔭 I'm working on computer vision and deep learning. My current research interest lies in foundation models and generative models （still trying to do better）.
+🔭 I'm working on computer vision and deep learning. My current research interest lies in foundation models and generative models.
+
+🌱 My Google Scholar: [Jingfeng Yao](https://scholar.google.com/citations?user=4qc1qJ0AAAAJ&hl=zh-CN)
 
 📫 How to reach me: jfyao@hust.edu.cn.
 
