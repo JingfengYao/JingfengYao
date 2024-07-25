@@ -2,11 +2,13 @@
 
 😄 I'm a Ph.D. student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
 
-🔭 I'm working on computer vision and deep learning. My current research interest lies in generative models.
+🔭 I'm working on computer vision. My previous work focused on visual perception, including representation learning, image matting, and image segmentation. 
 
-🌱 My Google Scholar: [Jingfeng Yao](https://scholar.google.com/citations?user=4qc1qJ0AAAAJ&hl=zh-CN)
+🌱 My current research interest lies in generative models.
 
-📫 How to reach me: jfyao@hust.edu.cn.
+📄 My Google Scholar: [Jingfeng Yao](https://scholar.google.com/citations?user=4qc1qJ0AAAAJ&hl=zh-CN)
+
+📫 How to reach me: jfyao@hust.edu.cn. 
 
 <!--
 **JingfengYao/JingfengYao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
