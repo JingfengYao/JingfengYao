@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Jingfeng Yao
 
-😄 I'm a Ph.D. student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
+😄 I'm a second-year Ph.D. student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
 
 🔭 I'm working on computer vision. My previous work focused on visual perception, including representation learning, image matting, and image segmentation. 
 
