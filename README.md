@@ -4,7 +4,7 @@
 
 🔭 I'm working on computer vision. My previous work focused on visual perception, including representation learning, image matting, and image segmentation. 
 
-🌱 My current research interest lies in generative models.
+🌱 **My current research interest lies in generative models.**
 
 📄 My Google Scholar: [Jingfeng Yao](https://scholar.google.com/citations?user=4qc1qJ0AAAAJ&hl=zh-CN)
 
