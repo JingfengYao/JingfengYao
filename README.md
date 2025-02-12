@@ -6,7 +6,7 @@
 
 🌱 **My current research interest lies in generative models.**
 
-📄 Personal Website: [Jingfeng Yao]([https://scholar.google.com/citations?user=4qc1qJ0AAAAJ&hl=zh-CN](https://jingfengyao.github.io/)
+📄 Personal Website: [Jingfeng Yao](https://jingfengyao.github.io/)
 
 📫 How to reach me: jfyao@hust.edu.cn. 
 
