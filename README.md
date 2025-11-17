@@ -2,7 +2,7 @@
 
 😄 I'm a 3rd-year Ph.D student and expected to graduate in 2027 at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
 
-🔭 I'm working on computer vision. My previous work focused on **image matting** and representation learning. 
+🔭 I'm working on computer vision. My previous work focused on image matting and representation learning. 
 
 🌱 **My current research interest lies in generative models.**
 
