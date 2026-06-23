@@ -2,9 +2,9 @@
 
 😄 I'm a 3rd-year Ph.D student and expected to graduate in 2027 at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/).
 
-🔭 I'm working on computer vision. My previous work focused on image matting and representation learning. 
+🔭 I'm working on computer vision. My previous work focused on image matting and representation learning.  **My current research interest lies in generative models.**
 
-🌱 **My current research interest lies in generative models.**
+I have been interning at MiniMax and have been contributing to the Hailuo series video models since 2024.
 
 📄 Personal Website: [Jingfeng Yao](https://jingfengyao.github.io/).
 
